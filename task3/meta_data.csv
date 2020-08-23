@@ -1,0 +1,8 @@
+200
+32
+2020-01-01Т12:51:32.124Z - [username1] - wanna top up 10l (успех)
+2020-01-01Т12:51:34.769Z - [username2] - wanna scoop 50l (фейл)
+2020-01-01Т12:53:34.124Z - [username1] - wanna top up 110l (успех)
+2020-01-01Т12:54:37.124Z - [username2] - wanna scoop 50l (успех)
+2020-01-01Т12:55:34.769Z - [username1] - wanna top up 100l (фейл)
+2020-01-01Т12:56:34.769Z - [username2] - wanna top up 100l (фейл)
